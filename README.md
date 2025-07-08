@@ -4,6 +4,7 @@
 Este repositorio contiene una serie de notebooks desarrollados como parte del curso de **Algoritmos de Optimización**, donde se aplican diversas técnicas como **divide y vencerás**, **programación dinámica**, **búsqueda local**, **fuerza bruta** entre otros para resolver problemas clásicos de optimización.
 
 Además se ha añadido por cada notebook un espacio de **Práctica individual de material de clase** sugeridas para practicar más y mejorar las calificaciones.
+
 ---
 
 ## Contenido de los notebooks
